@@ -20,7 +20,7 @@ export const Navbar = () => {
            </div>
           <ul className={menuOPen ? "open" : ""}>
                 <li> 
-                    <NavLink to="/about">Rólunk</NavLink>
+                    <NavLink to="http://localhost:5173/regiok">Régiók</NavLink>
                 </li>
                 <li> 
                     <NavLink to="/services">Szolgáltatások</NavLink>
